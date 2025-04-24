@@ -99,5 +99,3 @@ Mário Evangelista
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-Se quiser, posso também gerar um `requirements.txt` com as dependências iniciais ou preparar o esqueleto da pasta com arquivos `.py` e `.ipynb` iniciais. Quer?
