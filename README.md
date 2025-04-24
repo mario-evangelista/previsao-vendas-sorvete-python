@@ -92,7 +92,7 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões e melhoria
 
 Mário Evangelista  
 📚 Bacharelado em Sistemas de Informação | Entusiasta de Machine Learning  
-🔗 [LinkedIn](https://www.linkedin.com) | [Portfólio](https://github.com/mario-evangelista)
+🔗 [LinkedIn](https://www.linkedin.com/in/marioevangelista) | [Portfólio](https://github.com/mario-evangelista)
 
 ---
 
